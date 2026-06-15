@@ -48,7 +48,7 @@ Encryption converts readable text into coded text, while decryption reverses the
 Run the program using:
 
 ```bash
-python caesar_cipher.py
+py ciper.py
 ```
 
 Follow the on-screen instructions to:
